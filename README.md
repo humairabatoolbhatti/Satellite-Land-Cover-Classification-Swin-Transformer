@@ -12,7 +12,6 @@ The interesting part is the explainability — Grad-CAM highlights which region 
 
 **Results**
 
-| Metric | Score |
 | Test Accuracy | 98.89% |
 | F1-Score | 98.89% |
 | Cohen's Kappa | 0.9876 |
