@@ -24,14 +24,11 @@ Compared to other approaches on EuroSAT:
 
  **Visualizations**
 
-**Class-wise Performance**
-![Class-wise Metrics](classwise_metrics.png)
+<img src="classwise_metrics.png" width="700"/>
 
-**Overall Metrics**
-![Overall Metrics](overall_metrics.png)
+<img src="overall_metrics.png" width="700"/>
 
-**Confusion Matrix**
-![Confusion Matrix](confusion_matrix.png)
+<img src="confusion_matrix.png" width="700"/>
 
 **Dataset**
 EuroSAT — 27,000 Sentinel-2 satellite images across 10 classes.
